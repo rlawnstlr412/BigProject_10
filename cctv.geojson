@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {"type": "Feature","properties": {"name": "송파구1","detected": "0"},"geometry": {"type": "Point","coordinates": [127.11398102719352,
+          37.49771058272577]}},
+    {"type": "Feature","properties": {"name": "송파구2","detected": "4"},"geometry": {"type": "Point","coordinates": [127.11875032375394,
+          37.500339993855576]}},
+    {"type": "Feature","properties": {"name": "송파구3","detected": "0"},"geometry": {"type": "Point","coordinates": [127.1101009215152,
+          37.50200737732878]}},
+    {"type": "Feature","properties": {"name": "송파구4","detected": "2"},"geometry": {"type": "Point","coordinates": [127.11713361305357,
+          37.508420043670185]}},
+    {"type": "Feature","properties": {"name": "송파구5","detected": "3"},"geometry": {"type": "Point","coordinates": [127.11842698161388,
+          37.492515620301575]}},
+    {"type": "Feature","properties": {"name": "강남구1","detected": "0"},"geometry": {"type": "Point","coordinates": [127.04257136714381,
+          37.50266312169302]}},
+    {"type": "Feature","properties": {"name": "강남구2","detected": "2"},"geometry": {"type": "Point","coordinates": [127.05673798948709,
+          37.50689577252082]}},
+    {"type": "Feature","properties": {"name": "강남구3","detected": "0"},"geometry": {"type": "Point","coordinates": [127.05876179267864,
+          37.50302801483673]}},
+    {"type": "Feature","properties": {"name": "강남구4","detected": "3"},"geometry": {"type": "Point","coordinates": [127.07008990196198,
+          37.482591234765465]}}
+  ]
+}
